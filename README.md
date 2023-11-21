@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byhelenmedeiros&label=Profile%20views&color=0e75b6&style=flat" alt="byhelenmedeiros" /> </p>
 
-- 🌱 I’m currently learning **React, Javascript, CSS3, Bootstrap**
+- 🌱 I’m currently learning **React, Javascript, CSS3, Bootstrap, Wordpress, PHP**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/byhelenmedeiros](https://vercel.com/byhelenmedeiros)
 
